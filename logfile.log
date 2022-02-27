@@ -1,0 +1,10 @@
+2022-02-24 13:57:22,525 :INFO : test_contact :Fetched data for name field is:Nizam
+2022-02-24 13:57:23,380 :INFO : test_contact :Fetched data for name field is:Amjada
+2022-02-24 13:57:23,380 :INFO : test_contact :Fetched data for name field is:Amjada
+2022-02-24 13:57:28,030 :INFO : test_e2e :The value passed by if condition is:Blackberry
+2022-02-24 13:57:28,260 :INFO : test_e2e :Send key value Ind
+2022-02-24 14:02:31,649 :INFO : test_contact :Fetched data for name field is:Nizam
+2022-02-24 14:02:32,609 :INFO : test_contact :Fetched data for name field is:Amjada
+2022-02-24 14:02:32,609 :INFO : test_contact :Fetched data for name field is:Amjada
+2022-02-24 14:02:38,560 :INFO : test_e2e :The value passed by if condition is:Blackberry
+2022-02-24 14:02:38,829 :INFO : test_e2e :Send key value Ind
